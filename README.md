@@ -1,4 +1,6 @@
-<h1 style='text-align:center'>qHttp</h1>
+<div style='align:center'>
+  <h1>qHttp</h1>
+</div>
 
 纯手写实现的一个轻便爬虫库，语法糖效仿WinHttp，易语言出身的朋友可能会很喜欢这个库。
 
