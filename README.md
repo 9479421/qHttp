@@ -1,4 +1,4 @@
-<div style='align:center'>
+<div align='center'>
   <h1>qHttp</h1>
 </div>
 
